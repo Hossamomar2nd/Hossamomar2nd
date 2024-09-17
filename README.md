@@ -21,7 +21,7 @@ $$ -->
 ``` yaml
 name: Hossam Aboelhassan
 mail: hossamomar2nd@gmail.com
-company: Taza
+company: null
 title: lazy-programmer
 interests:
   - Back-End
