@@ -25,13 +25,12 @@ company: null
 title: lazy-programmer
 interests:
   - Back-End
-  - linux
   - Database
   - open-source
 programming-languages:
   - c++
   - javaScript
-  - java
+  - typeScript
 ```
 ##
 
