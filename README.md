@@ -4,15 +4,13 @@
 
 </div>
 
-<picture align="right">
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
+<p align="center">
   <img
-    align="right"
-    width="53.5%"
+    width="60%"
     alt="Coding animation"
     src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"
   >
-</picture>
+</p>
 
 ```yaml
 name: Hossam Aboelhassan
@@ -33,8 +31,6 @@ programming-languages:
 - Backend-focused developer who enjoys building reliable APIs and data-driven applications.
 - Comfortable working with Node.js, NestJS, PostgreSQL, MongoDB, Docker, and modern TypeScript tooling.
 - Interested in clean architecture, practical problem solving, and open-source collaboration.
-
-<br clear="right">
 
 ## Connect
 
