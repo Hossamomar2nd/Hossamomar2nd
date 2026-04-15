@@ -34,12 +34,15 @@ programming-languages:
 - Comfortable working with Node.js, NestJS, PostgreSQL, MongoDB, Docker, and modern TypeScript tooling.
 - Interested in clean architecture, practical problem solving, and open-source collaboration.
 
+<br clear="right">
+
 ## Connect
 
 <p align="center">
   <a href="mailto:hossam.aboelhassan.dev@gmail.com">
     <img src="https://img.shields.io/badge/HossamAboelhassan-Gmail-red?style=flat&logo=gmail" alt="Gmail badge">
   </a>
+  &nbsp;
   <a href="https://x.com/Hossamaboelhas8">
     <img src="https://img.shields.io/badge/HossamAboelhassan-X-black?style=flat&logo=x" alt="X badge">
   </a>
